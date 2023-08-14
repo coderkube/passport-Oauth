@@ -73,4 +73,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customise the above README template to match your project's specifics. Provide clear instructions for setup, usage, and any other relevant information. Make sure to replace placeholders like `your-username` and `your-project` with actual values.
